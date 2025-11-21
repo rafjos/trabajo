@@ -1,4 +1,4 @@
-est;Nivel;bajo
+genero;estatura;cantidad
 F;bajo;5
 F;bajo;1
 F;bajo;10
@@ -59,4 +59,5 @@ M;alto;3
 M;alto;5
 M;alto;4
 M;alto;10
+
 
